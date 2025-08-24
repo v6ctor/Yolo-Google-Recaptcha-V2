@@ -4,7 +4,7 @@ This project fine-tunes a custom YOLOv3-based object detection model for Google 
 
 **Swarthmore College CS63: AI Final Project**
 
-![Non-Max Suppression](results/Chimney (105)_nms.png)
+![Non-Max Suppression](https://github.com/v6ctor/Yolo-Google-Recaptcha-V2/results/Chimney (105)_nms.png?raw=true)
 
 ### Setup:
 
