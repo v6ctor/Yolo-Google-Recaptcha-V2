@@ -4,6 +4,8 @@ This project fine-tunes a custom YOLOv3-based object detection model for Google 
 
 **Swarthmore College CS63: AI Final Project**
 
+[Non-Max Suppression](results/Chimney (105)_nms.png)
+
 ### Setup:
 
 #### 1. Clone the repository
