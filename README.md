@@ -4,8 +4,9 @@ This project fine-tunes a custom YOLOv3-based object detection model for Google 
 
 **Swarthmore College CS63: AI Final Project**
 
-<img width="369" height="369" alt="Chimney (105)_nms" src="https://github.com/user-attachments/assets/0c87ee96-853d-4008-89d7-c1fb6fd3eff4" />
+<img width="382" height="369" alt="Cross (85)_nms" src="https://github.com/user-attachments/assets/c852ba2e-0e45-48b1-b493-20f6298601a8" />
 
+<img width="369" height="369" alt="Cross (85)_tl" src="https://github.com/user-attachments/assets/d6c3abe4-c681-477f-86e6-bd54daec0295" />
 
 ### Setup:
 
