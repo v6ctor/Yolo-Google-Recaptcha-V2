@@ -1,6 +1,6 @@
 ## How to Use
 
-This project fine-tunes a custom YOLOv3-based object detection model for Google reCAPTCHA v2-style datasets.
+This project fine-tunes a custom YOLOv3-based object detection model for Google reCAPTCHA v2-style datasets. Many of the files weren't passed over from the college's server so this repo is not reproducable.
 
 **Swarthmore College CS63: AI Final Project**
 
