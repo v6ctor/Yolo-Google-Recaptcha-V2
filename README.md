@@ -8,8 +8,7 @@ This project fine-tunes a custom YOLOv3-based object detection model for Google 
 #### 1. Clone the repository
 
 ```bash
-git clone git@github.swarthmore.edu:CS63-S25/project-ndandre1-vsumano1.git
-cd project-ndandre1-vsumano1
+git clone git@github.com:v6ctor/Yolo-Google-Recaptcha-V2.git
 ```
 
 #### 2. Install YOLOv5 within repository
