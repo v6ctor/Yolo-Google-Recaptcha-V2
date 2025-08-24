@@ -17,7 +17,7 @@ git clone git@github.com:v6ctor/Yolo-Google-Recaptcha-V2.git
 YOLOv5 is included as a Git submodule. To correctly initialize everything:
 
 ```bash
-git clone --recurse-submodules https://github.com/CS63-S25/project-ndandre1-vsumano1/yolov5s.git
+git clone --recurse-submodules https://github.com/Yolo-Google-Recaptcha-V2/yolov5s.git
 ```
 
 #### 3. Install dependencies
